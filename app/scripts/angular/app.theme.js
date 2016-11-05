@@ -19,6 +19,12 @@
                 .accentPalette('blue')
                 .backgroundPalette('grey')
                 .dark(false);
+        $mdThemingProvider.theme('home.body')
+                .primaryPalette('blue')
+                .warnPalette('blue')
+                .accentPalette('blue')
+                .backgroundPalette('grey')
+                .dark(false);
     }
     
 })();

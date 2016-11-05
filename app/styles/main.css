@@ -9,3 +9,22 @@ md-toolbar.md-home-theme:not(.md-menu-toolbar) {
 md-content.md-home-theme {
     background-color: rgba(255,255,255,0);
 }
+md-content.background{
+    background-color: rgba(255,255,255,0);
+    overflow: hidden;
+}
+.logotipo{
+    position: absolute;
+}
+.world{
+    position: relative;
+    margin-top: -100px;
+    margin-left: -50px;
+}
+.title{
+    /*margin-top: -340px;*/
+    /*margin-left: 50px;*/
+    margin-top: -500px;
+    margin-right: -50px;
+    position: relative;
+}
