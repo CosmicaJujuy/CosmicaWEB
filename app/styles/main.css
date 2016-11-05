@@ -7,5 +7,5 @@ md-toolbar.md-home-theme:not(.md-menu-toolbar) {
     color: rgb(255,255,255);
 }
 md-content.md-home-theme {
-    background-color: rgba(255,255,255,0.1);
+    background-color: rgba(255,255,255,0);
 }
